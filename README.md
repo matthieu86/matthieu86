@@ -1,4 +1,4 @@
-# I'm Matthieu 👋👨‍💻
+# 👋 I'm Matthieu 👨‍💻
 <br>A passionate Engineering student from Paris 🇫🇷<br><br>🎓 I'm currently a 3rd-year Computer Science student at EFREI Paris.<br><br>🔭 I'm currently looking for a 2 years contract  in Cybersecurity starting in September 2025.<br><br>📬 How to contact me : matthieu.bouin@efrei.net
 
 # 💻 Tech Stack:
